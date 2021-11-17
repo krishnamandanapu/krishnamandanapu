@@ -2,8 +2,6 @@
 
 **I am Krishna!**
 
-Here are some ideas to get you started:
-
 - Currently: MS CS student at George Mason University.
 - Previously: Software Developer at Resolve Systems India.
 
